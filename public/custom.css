@@ -1,0 +1,55 @@
+body {
+  font-family: "Varela Round", sans-serif;
+  background-color: #f7f7f7;
+}
+
+.navbar {
+  background: #fff;
+  -moz-box-shadow: rgba(0, 0, 0, 0.09) 0 2px 0;
+  -webkit-box-shadow: rgba(0, 0, 0, 0.09) 0 2px 0;
+  box-shadow: rgba(0, 0, 0, 0.09) 0 2px 0;
+  padding: 10px 16px;
+}
+
+.navbar .navbar-brand {
+  font-weight: bold;
+  letter-spacing: -1px;
+  font-size: 20px;
+  color: #dd5638;
+}
+
+.navbar-light .navbar-nav .active > .nav-link {
+  color: #435d7d;
+}
+
+.btn-circle {
+  width: px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: px;
+}
+
+.card-title {
+  color: #fff;
+  background: #435d7d;
+  padding: 1px 20px;
+}
+
+.footer {
+  background-color: #4e545c;
+  color: #f7f7f7;
+}
+
+.footer a {
+}
+.on {
+}
+.class-1 {
+  display: flex;
+}
+.class-1 input {
+  width: 100%;
+}
